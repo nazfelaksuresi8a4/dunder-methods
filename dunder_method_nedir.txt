@@ -1,0 +1,3 @@
+Dunder method (kısaltması double underscore, yani "çift alt çizgi" metodu), Python'da adının başında ve sonunda ikişer alt çizgi (__) bulunan özel metotlardır. Genellikle doğrudan çağrılmazlar; operatörler veya yerleşik fonksiyonlar tetiklendiğinde Python tarafından arka planda otomatik çalıştırılırlar
+
+dunder methodlarda bu yerleşik fonksiyonların arkada çağırdıgı şeyleri manuel olarak çağırmaya yarar
